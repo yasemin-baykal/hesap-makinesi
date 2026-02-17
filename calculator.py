@@ -33,6 +33,6 @@ while True:
 
     tekrar = input("Yeni işlem yapmak ister misin? (e/h): ")
 
-    if tekrar == "h":
+    if tekrar.lower() == "h":
         print("Program kapatılıyor...")
         break
