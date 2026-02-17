@@ -21,3 +21,4 @@ Terminalde proje klasörüne girip şu komutu çalıştırın:
 
 ```bash
 python3 calculator.py
+## Version 1.1 - Minor improvement
